@@ -1,0 +1,25 @@
+# 🎮 Discord Imposter Game Bot
+
+A fun multiplayer party game bot for Discord where players try to identify the imposter among them. Inspired by social deduction games like *Among Us*, this bot manages players, assigns roles, and handles voting.
+
+---
+
+## 🚀 Features
+
+- 👥 Join/leave game system (max 5 players)
+- 🎭 Random role assignment (Crewmate vs Imposter)
+- 🧠 Random word + category system
+- 📩 Private DM role distribution
+- 🗳️ Built-in voting poll
+- 🏆 Automatic result calculation
+- 🔄 Game state reset after each round
+
+---
+
+## 🛠️ Requirements
+
+- Python 3.9+
+- Discord bot token
+- Required libraries:
+  ```bash
+  pip install discord.py python-dotenv
