@@ -50,10 +50,3 @@ Perfect for friend groups, small communities, or casual Discord servers.
 - Native Discord features (slash commands, polls, embeds)
 
 ---
-
-## ⚙️ Installation & Setup
-
-### 1. Clone the Repository
-```bash
-git clone <your-repo-url>
-cd <your-project-folder>
